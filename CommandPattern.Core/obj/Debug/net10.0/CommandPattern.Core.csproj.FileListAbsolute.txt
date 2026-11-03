@@ -1,0 +1,11 @@
+C:\Users\Moham\Desktop\Softwareteknologi\4. semester\SWD\Hand-in\swd-design-pattern-handin\CommandPattern.Core\bin\Debug\net10.0\CommandPattern.Core.deps.json
+C:\Users\Moham\Desktop\Softwareteknologi\4. semester\SWD\Hand-in\swd-design-pattern-handin\CommandPattern.Core\bin\Debug\net10.0\CommandPattern.Core.dll
+C:\Users\Moham\Desktop\Softwareteknologi\4. semester\SWD\Hand-in\swd-design-pattern-handin\CommandPattern.Core\bin\Debug\net10.0\CommandPattern.Core.pdb
+C:\Users\Moham\Desktop\Softwareteknologi\4. semester\SWD\Hand-in\swd-design-pattern-handin\CommandPattern.Core\obj\Debug\net10.0\CommandPattern.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\Desktop\Softwareteknologi\4. semester\SWD\Hand-in\swd-design-pattern-handin\CommandPattern.Core\obj\Debug\net10.0\CommandPattern.Core.AssemblyInfoInputs.cache
+C:\Users\Moham\Desktop\Softwareteknologi\4. semester\SWD\Hand-in\swd-design-pattern-handin\CommandPattern.Core\obj\Debug\net10.0\CommandPattern.Core.AssemblyInfo.cs
+C:\Users\Moham\Desktop\Softwareteknologi\4. semester\SWD\Hand-in\swd-design-pattern-handin\CommandPattern.Core\obj\Debug\net10.0\CommandPattern.Core.csproj.CoreCompileInputs.cache
+C:\Users\Moham\Desktop\Softwareteknologi\4. semester\SWD\Hand-in\swd-design-pattern-handin\CommandPattern.Core\obj\Debug\net10.0\CommandPattern.Core.dll
+C:\Users\Moham\Desktop\Softwareteknologi\4. semester\SWD\Hand-in\swd-design-pattern-handin\CommandPattern.Core\obj\Debug\net10.0\refint\CommandPattern.Core.dll
+C:\Users\Moham\Desktop\Softwareteknologi\4. semester\SWD\Hand-in\swd-design-pattern-handin\CommandPattern.Core\obj\Debug\net10.0\CommandPattern.Core.pdb
+C:\Users\Moham\Desktop\Softwareteknologi\4. semester\SWD\Hand-in\swd-design-pattern-handin\CommandPattern.Core\obj\Debug\net10.0\ref\CommandPattern.Core.dll
