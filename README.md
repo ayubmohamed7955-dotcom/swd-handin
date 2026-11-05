@@ -2,7 +2,7 @@
 
 Afleveringsprojekt til SW4SWD (Design Patterns). Et lille klatrespil i konsollen, hvor hver tast bliver til et kommando-objekt. Det viser **Command-patternet** med undo/redo, makro-kommandoer, replay og omlægning af taster.
 
-**Gruppe:** XX
+**Gruppe:** 7
 
 | Navn | auID |
 | --- | --- |
